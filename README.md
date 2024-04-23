@@ -1,4 +1,7 @@
 ## A scrapy project with spiders written to extract ski resort data from [skiresort.info](https://www.skiresort.info/).
+
+### There are complete dumps included for every ski-resort in europe with at least some information available about it (around 3825 in total)
+
 Here is how to create a json dump featuring links to every European ski-resort available on the website:
 
     
